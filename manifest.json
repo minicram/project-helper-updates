@@ -3,7 +3,7 @@
   "channel": "stable",
   "version": "1.9.28",
   "releasedAt": "2026-08-31T04:36:53Z",
-  "url": "https://terracon4.sharepoint.com/:u:/s/ProjectHelperTool/IQAmvXsIk2IiTZg51cAWl-rYAbqHWBG6Jyc6EI9mxDaKXQs?e=qBPDzF",
+  "url": "https://terracon4.sharepoint.com/:u:/s/ProjectHelperTool/IQDVVxDCKZpaSobv2_Lp9dD2ASCWXWIKkRui07LmkE3d4Vk?e=gB2wzj",
   "sha256": "cba62834ce689b2c82aff8fea098479efbd0f6e5f92e7417bcc05d74f247d7c5",
   "notes": [
     "Added non-blocking update checking.",

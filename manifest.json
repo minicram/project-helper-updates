@@ -1,13 +1,12 @@
 {
   "product": "Project Helper",
   "channel": "stable",
-  "version": "1.9.28",
-  "releasedAt": "2026-08-31T04:36:53Z",
-  "url": "https://terracon4.sharepoint.com/:u:/s/ProjectHelperTool/IQDVVxDCKZpaSobv2_Lp9dD2ASCWXWIKkRui07LmkE3d4Vk?e=gB2wzj",
-  "sha256": "cba62834ce689b2c82aff8fea098479efbd0f6e5f92e7417bcc05d74f247d7c5",
+  "version": "1.9.29",
+  "releasedAt": "2026-08-31T05:11:55Z",
+  "url": "https://terracon4.sharepoint.com/:u:/s/ProjectHelperTool/IQCKq82bhsypQKLmQQh321ctATXL2hIepypO0t2HT7lqmWY?e=FBvjGX",
+  "sha256": "f883c4c9340b7013665b6a23bad455fcaa8521e368ea4cce7c1084a1ea46349d",
   "notes": [
-    "Added non-blocking update checking.",
-    "Added organization-only SharePoint release navigation.",
-    "Improved update diagnostics and offline handling."
+    "Added a compact update status showing the last successful check.",
+    "Added the installed version to the browser-tab title."
   ]
 }

@@ -2,10 +2,12 @@
   "product": "Project Helper",
   "channel": "stable",
   "version": "1.9.28",
-  "releasedAt": "2026-08-30T00:00:00Z",
+  "releasedAt": "2026-08-31T04:36:53Z",
   "url": "https://terracon4.sharepoint.com/:u:/s/ProjectHelperTool/IQAmvXsIk2IiTZg51cAWl-rYAbqHWBG6Jyc6EI9mxDaKXQs?e=qBPDzF",
   "sha256": "cba62834ce689b2c82aff8fea098479efbd0f6e5f92e7417bcc05d74f247d7c5",
   "notes": [
-    "Initial update manifest test."
+    "Added non-blocking update checking.",
+    "Added organization-only SharePoint release navigation.",
+    "Improved update diagnostics and offline handling."
   ]
 }
